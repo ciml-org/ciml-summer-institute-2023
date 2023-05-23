@@ -1,7 +1,7 @@
 # ciml-summer-institute-2023
 ciml-summer-institute-2023
 
-## Website: [https://na.eventscloud.com/website/50410](https://na.eventscloud.com/website/50410)
+## Website: [https://na.eventscloud.com/website/50410/home/](https://na.eventscloud.com/website/50410/home/)
 
 ## Interactive Videos
 * Recorded sessions can be found [TBD](https://education.sdsc.edu/training/interactive/202206_ciml_si23/)
