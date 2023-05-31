@@ -27,17 +27,17 @@ To work with the material, remember to CLONE this repo.
 ## Agenda:<a name="agenda"></a>
 All times are in Pacific time.
 
-### Preparation Day (Wednesday, 06/22/22) <a name="agenda-prep"></a>
+### Preparation Day (virtual) (Tuesday, 06/20/22) <a name="agenda-prep"></a>
 | **TIME (Pacific time)**       |   **TOPIC** | **PRESENTER** |
 | -------------------- |  ----------- | ----------- |
-| 9:00 AM - 9:20 AM	   |  [1.1 Welcome & Orientation](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.1_prep_day_welcome_and_orientation) [ [Interactive Video] ](https://education.sdsc.edu/training/interactive/202206_ciml_si22/section1_1/)| [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)   |
-| 9:20 AM – 9:50 AM    |  [1.2 Access, Accounts, Login, Environment, Expanse User Portal](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.2_accounts_login_environments_expanse_portal) [ [Interactive Video] ](https://education.sdsc.edu/training/interactive/202206_ciml_si22/section1_2/)| [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |
-| 9:50 AM – 10:10 AM   |  [1.3 Running Jupyter Notebooks on Expanse ](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/1.3_running_jupyter_notebooks_expanse) [ [Interactive Video] ](https://education.sdsc.edu/training/interactive/202206_ciml_si22/section1_3/)| [Marty Kandes](https://www.linkedin.com/in/marty-kandes-b53a34144/) |
-| 10:10 AM – 10:30 AM	 |  Q&A, Wrap-up  | All |
+| 9:00 AM - 9:15 AM	   |  [1.1 Welcome & Orientation](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/1.1_welcome_and_orientation) [ [Interactive Video] ]()| [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)   |
+| 9:15 AM – 9:30 AM    |  [1.2 Access, Accounts, Login, Environment, Expanse User Portal](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/1.2_accounts_login_environment_expanse_portal) [ [Interactive Video] ]()| [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |
+| 9:30 AM – 9:45 AM   |  [1.3 Running Jupyter Notebooks on Expanse ](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/1.3_running_jupyter_notebooks_expanse) [ [Interactive Video] ]()| [Marty Kandes](https://www.linkedin.com/in/marty-kandes-b53a34144/) |
+| 9:45 AM – 10:30 AM	 |  Q&A, Wrap-up  | All |
 
 [Back to Top](#top)
 
- ### HPC & Parallel Concepts (Monday, 06/27/22)<a name="agenda-hpc-pc"></a>
+ ### HPC & Parallel Concepts (Tuesday, 06/27/22)<a name="agenda-hpc-pc"></a>
 | **TIME (Pacific time)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 8:00 AM – 8:05 AM    | 	[2.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/2.1_welcome_orientation_introductions)|  [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |
@@ -50,7 +50,7 @@ All times are in Pacific time.
 
 [Back to Top](#top)
 
-### Scalable Machine Learning (Tuesday, 06/28/22)<a name="agenda-scalable-ml"></a>
+### Scalable Machine Learning (Wednesday, 06/28/22)<a name="agenda-scalable-ml"></a>
 | **TIME (Pacific time)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 8:00 AM – 8:05 AM   |  [3.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/3.1_quick_welcome_introduction) | [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |
@@ -63,7 +63,7 @@ All times are in Pacific time.
 
 [Back to Top](#top)
 
-### Deep Learning (Wednesday, 06/29/22)<a name="agenda-deep-ml"></a>
+### Deep Learning (Thursday, 06/29/22)<a name="agenda-deep-ml"></a>
 | **TIME (Pacific time)** | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 8:00 AM – 8:05 AM    |  [4.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2022/tree/main/4.1_quick_welcome_introduction) | [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) |
