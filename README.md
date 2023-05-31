@@ -64,7 +64,7 @@ All times are in Pacific time.
 | 10:00 AM – 10:10 AM |  Break |  |
 | 10:10 AM – 12:10 PM  |  [3.3 CONDA Environments and Jupyter Notebook on Expanse: Scalable & Reproducible Data Exploration and ML](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/3.3_conda_environments_and_jupyter_notebook_on_expanse) [ [Interactive Video] ]() | [Peter Rose](https://www.sdsc.edu/research/researcher_spotlight/rose_peter.html) |
 | 12:10 PM – 1:10 PM |  Lunch |  |
-| 1:10 PM – 1:55 PM |  [3.4 Machine Learning (ML) Overview](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/3.4_machine_learning_overview) | [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |
+| 1:10 PM – 1:55 PM |  [3.4 Machine Learning (ML) Overview](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/3.4_machine_learning_overview) [ [Interactive Video] ]() | [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |
 | 1:55 PM – 2:25 PM |  [3.5 R on HPC Demo](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/3.5_r_on_hpc_demo) [ [Interactive Video] ]() | [Paul Rodriguez](https://www.coursera.org/instructor/~13847302) |
  | 2:25 PM – 2:35 PM  |  Break |  |
 | 2:35 PM – 4:35 PM  |  [3.6 Spark](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/3.6_spark) [ [Interactive Video] ]() | [Mai Nguyen](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |
