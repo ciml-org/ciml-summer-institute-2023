@@ -45,9 +45,9 @@ All times are in Pacific time.
  | 9:30 AM - 9:40 AM  | Break |    |
 | 9:40 AM – 11:00 AM	   |  [2.2 Parallel Computing Concepts](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/2.2_parallel_computing_concepts) [ [Interactive Video] ]()| [Robert Sinkovits](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) |
  | 11:00 AM – 11:10 PM  | Break |    |
-| 11:10 AM – 12:30 PM   | 	[2.3 Running Batch Jobs on SDSC Systems](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/2.3_running_batch_jobs_sdsc_systems) [ [Interactive Video] ]()| [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) |
+| 11:10 AM – 12:30 PM   | 	[2.3 Running Batch Jobs on SDSC Systems](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/2.3_running_batch_jobs_sdsc_systems) [ [Interactive Video] ]()| [Marty Kandes](https://www.linkedin.com/in/marty-kandes-b53a34144/) |
 | 12:30 PM – 1:30 PM  | Lunch |    |
-| 1:30 PM - 2:50 PM	 |  [2.4 Data Management and File Systems](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/2.4_data_management_and_file_systems) [ [Interactive Video] ]() | [Marty Kandes](https://www.linkedin.com/in/marty-kandes-b53a34144/) |
+| 1:30 PM - 2:50 PM	 |  [2.4 Data Management and File Systems](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/2.4_data_management_and_file_systems) [ [Interactive Video] ]() | [Mahidhar Tatineni](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html) |
 | 2:50 PM – 3:00 PM  | Break |    |
 | 3:00 PM – 4:30 PM   |  [2.5  GPU Computing - Hardware architecture and software infrastructure](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/2.5_gpu_computing_hardware_architecture_and_software_infrastructure) [ [Interactive Video] ]() | [Andreas Goetz](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html) |
 | 4:30 PM – 5:00 PM   |  Q&A, Wrap-up | All |
@@ -59,7 +59,7 @@ All times are in Pacific time.
 | **TIME (Pacific time)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 8:00 AM – 8:30 AM  | Light Breakfast & Check-in |    |
-| 8:30 AM – 8:40 AM   |  [3.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/3.1_quick_welcome) | [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |
+| 8:30 AM – 8:40 AM   |  [3.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/3.1_quick_welcome) |   |
 | 8:40 AM – 10:00 AM   | 	[3.2 Introduction to Singularity: Containers for Scientific and <br>High-Performance Computing](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/3.2_introduction_to_singularity) [ [Interactive Video] ]() |  [Marty Kandes](https://www.linkedin.com/in/marty-kandes-b53a34144/)  |
 | 10:00 AM – 10:10 AM |  Break |  |
 | 10:10 AM – 12:10 PM  |  [3.3 CONDA Environments and Jupyter Notebook on Expanse: Scalable & Reproducible Data Exploration and ML](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/3.3_conda_environments_and_jupyter_notebook_on_expanse) [ [Interactive Video] ]() | [Peter Rose](https://www.sdsc.edu/research/researcher_spotlight/rose_peter.html) |
@@ -76,7 +76,7 @@ All times are in Pacific time.
 | **TIME (Pacific time)** | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 8:00 AM – 8:30 AM  | Light Breakfast & Check-in |    |
-| 8:30 AM – 8:40 AM    |  [4.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/4.1_quick_welcome) | [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) |
+| 8:30 AM – 8:40 AM    |  [4.1 Quick Welcome](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/4.1_quick_welcome) |  |
 | 8:40 AM – 10:00 AM    |  [4.2 Intro to NN/CNN ](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/4.2_introduction_to_nn_and_cnn) [ [Interactive Video] ]() | [Paul Rodriguez](https://www.coursera.org/instructor/~13847302) |
  | 10:00 AM – 10:10 AM |  Break |  |
 | 10:10 AM – 11:30 AM   |  [4.3 Practical Guidelines for Training Deep Learning on HPC](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/4.3_practical_guidelines_for_training_deep_learning_on_hpc) [ [Interactive Video] ]() | [Paul Rodriguez](https://www.coursera.org/instructor/~13847302)  |
