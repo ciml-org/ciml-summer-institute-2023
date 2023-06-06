@@ -30,9 +30,8 @@ All times are in Pacific time.
 ### Preparation Day (virtual) (Tuesday, 06/20/22) <a name="agenda-prep"></a>
 | **TIME (Pacific time)**       |   **TOPIC** | **PRESENTER** |
 | -------------------- |  ----------- | ----------- |
-| 9:00 AM - 9:15 AM	   |  [1.1 Welcome & Orientation](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/1.1_welcome_and_orientation) [ [Interactive Video] ]()| [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)   |
-| 9:15 AM – 9:30 AM    |  [	1.2 Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/1.2_accounts_login_environment_expanse_portal) [ [Interactive Video] ]()| [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |
-| 9:30 AM – 9:45 AM   |  [1.3 Running Jupyter Notebooks on Expanse](https://github.com/ciml-org/ciml-summer-institute-2023/tree/main/1.3_running_jupyter_notebooks_expanse) [ [Interactive Video] ]()| [Marty Kandes](https://www.linkedin.com/in/marty-kandes-b53a34144/) |
+| 9:00 AM - 9:15 AM	   |  1.1 Welcome & Orientation |
+| 9:15 AM – 9:45 AM    |  1.2 Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal |
 | 9:45 AM – 10:30 AM	 |  Q&A, Wrap-up  | All |
 
 [Back to Top](#top)
