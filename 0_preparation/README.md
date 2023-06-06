@@ -65,7 +65,7 @@ There are several basic skills needed in order to access and run jobs on HPC sys
 
 Connection details are sent via as a calendar invite to all CIML participants. You should have received an invite for the preparation day on Tuesday, June 20, 2023, from 9am - 11am (Pacific Time). If you did not receive this an invite, please contact cwong@sdsc.edu.
 
-Note: the remaining of the institute will beheld in person and not available remotely. 
+Note: the remaining of the CIML Summer Institute on Tuesday, June 27 - Thursday, June 29 will be held in person and will not available remotely.
 
 ### Github: <a name="github"></a>
 * Training material will be located on the CIML Summer Institute [GitHub repo](https://github.com/ciml-org/ciml-summer-institute-2023) and one of the Tuesday hands-on sessions will require a GitHub account.
