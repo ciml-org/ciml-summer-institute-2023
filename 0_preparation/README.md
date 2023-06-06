@@ -35,7 +35,7 @@ Note: if you have any difficulties getting set up, please contact Institute staf
 * Note: The two topics below will be covered on the Preparation day (1.2 Accounts, Login, Environment, Running Jobs and Logging into Expanse User Portal).
 
 ### Logging onto the Expanse Portal: <a name="logon-portal"></a>
-* XSEDE training accounts to access the Expanse portal have already been created for you. Please do not create a new one on your own. See email sent from cwong@sdsc.edu for your XSEDE & Expanse acount with the subject link "CIML 2022 Summer Institute: Account Set-Up". 
+* XSEDE training accounts to access the Expanse portal have already been created for you. Please do not create a new one on your own. See email sent from cwong@sdsc.edu for your XSEDE & Expanse acount with the subject link "CIML 2023 Summer Institute: Account Set-Up". 
 * Once you have received your XSEDE and Expanse portal ID information, go to https://portal.expanse.sdsc.edu, to confirm your login.
 * For a short (18 min) video on using the Expanse portal, see [here](https://education.sdsc.edu/training/interactive/sdsc_si21/1.3_Expanse_User_Portal/).
 
