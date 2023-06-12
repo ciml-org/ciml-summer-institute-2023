@@ -4,7 +4,6 @@ ciml-summer-institute-2023
 ## Website: [https://na.eventscloud.com/website/50410/home/](https://na.eventscloud.com/website/50410/home/)
 
 ## Interactive Videos
-* Recorded sessions can be found [TBD](https://education.sdsc.edu/training/interactive/202206_ciml_si23/)
 * A full catalog of all our trainings at SDSC can be found [here](https://www.sdsc.edu/education_and_training/training_hpc.html#catalog).
 
 ### <a name="top">**Contents:**
