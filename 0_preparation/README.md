@@ -10,8 +10,6 @@ To help you get the most out of this workshop, this section contains a set of de
 <a name="top">Contents
 * [Expanse User Guide](#expanse-guide)
 * [HPC Systems Accounts](#accounts)
-   * [Logging onto the Expanse Portal](#logon-portal)
-   * [Logging onto Expanse HPC Cluster](#logon-expanse)
 * [Basic Skills](#basic-skills)
 * [Github and Zoom](#Github-Zoom)
   * [Zoom](#zoom)
