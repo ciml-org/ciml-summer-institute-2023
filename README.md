@@ -89,15 +89,16 @@ All times are in Pacific time.
  [Back to Top](#top)
   
   ### CIML Instructors<a name="instructors"></a>
-| **Name** | **Title** | **Email** | **Webpage**
-| -------------------- | ----------- | ----------- | ----------- |
-| Andreas Goetz, Ph.D.   |  Research Scientist, Principal Investigator  | awgoetz at ucsd.edu | | 
-| Mai Nguyen Ph.D. |  Lead for Data Analytics | 	mhnguyen at ucsd.edu | | 
-| Marty Kandes Ph.D. |  Computational and Data Science Research Specialist | 	mkandes at ucsd.edu | | 
-| Mary Thomas Ph.D.  |  Director of CIML, Computational Data Scientist, HPC Trainer  | 	mpthomas at ucsd.edu | | 
-| Paul Rodriguez Ph.D.	|  Computational Data Scientist | 	p4rodriguez at ucsd.edu | | 
-| Peter Rose Ph.D.	|  Director for Structural Bioinformatics Laboratory  | 	pwrose at ucsd.edu | | 
-| Robert Sinkovits Ph.D.  |  Director of Education and Training  | 	rssinkovits at ucsd.edu | | 
+| **Name** | **Title** | **Email** | 
+| -------------------- | ----------- | ----------- |
+| [Andreas Goetz, Ph.D.](https://www.sdsc.edu/research/researcher_spotlight/goetz_andreas.html)   |  Research Scientist, Principal Investigator  | awgoetz at ucsd.edu | 
+| [Mai Nguyen Ph.D.](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |  Lead for Data Analytics | 	mhnguyen at ucsd.edu | | 
+| [Mahidhar Tatineni, Ph.D.](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html) | Director for User Support Services | mtatineni at ucsd.edu |
+| [Marty Kandes Ph.D.](https://www.linkedin.com/in/marty-kandes-b53a34144) |  Computational and Data Science Research Specialist | 	mkandes at ucsd.edu | 
+| [Mary Thomas Ph.D.](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)  |  Director of CIML, Computational Data Scientist, HPC Trainer  | 	mpthomas at ucsd.edu | 
+| [Paul Rodriguez Ph.D.](https://profiles.ucsd.edu/paul.rodriguez)	|  Computational Data Scientist | 	p4rodriguez at ucsd.edu | 
+| [Peter Rose Ph.D.](https://www.sdsc.edu/research/researcher_spotlight/rose_peter.html)	|  Director for Structural Bioinformatics Laboratory  | 	pwrose at ucsd.edu | 
+| [Robert Sinkovits Ph.D.](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html)  |  Director of Education and Training  | 	rssinkovits at ucsd.edu | 
 
   [Back to Top](#top)
     <hr>
