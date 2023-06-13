@@ -12,9 +12,8 @@ This section contains a set of detailed start-up instructions, beginning with se
 * [HPC Systems Accounts](#accounts)
 * [Basic Skills](#basic-skills)
 * [Github and Zoom](#Github-Zoom)
+  * [Github](#github)
   * [Zoom](#zoom)
-  * [Github Account](#github)
-
 
 ## Expanse User Guide <a name="expanse-guide"></a>
 Please read the Expanse user guide and familiarize yourself with the hardware, file systems, batch job submission, compilers and modules. The guide can be found here:
@@ -50,19 +49,19 @@ There are several basic skills needed in order to access and run jobs on HPC sys
 
 ##  Github & Zoom <a name="Github-Zoom"></a>
 
-### Zoom:  <a name="zoom"></a>
+### Github: <a name="github"></a>
+* Training material will be located on the CIML Summer Institute [GitHub repo](https://github.com/ciml-org/ciml-summer-institute-2023).
+* One of the hands-on sessions will require a GitHub account.
+  * If you do not already have one, you can create a free personal GitHub account [here](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account). 
+  * For basic GitHub usage on SDSC systems, see here: https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github
+ 
+ ### Zoom:  <a name="zoom"></a>
 * We will be using Zoom for preparation day on Tuesday, June 20, 2023, from 9am-11am (Pacific Time).
 * You will need to install the latest [Zoom](https://zoom.us/download) client, which is available for Windows, MacOS and Linux. Once installed, you can test your microphone and camera interface with Zoom [here](https://zoom.us/test). You can find more information on Zoom system requirements, including bandwidth requirements [here](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux).  
 
 Connection details are sent  as a calendar invite to all CIML participants. You should have received an invite for the preparation day on Tuesday, June 20, 2023, from 9am - 11am (Pacific Time). If you did not receive this an invite, please contact cwong@sdsc.edu.
 
 Note: While Prep Day is a virtual event, the main CIML Summer Institute sessions (Tuesday, June 27 - Thursday, June 29) will be held in person and will not available remotely.
-
-### Github: <a name="github"></a>
-* Training material will be located on the CIML Summer Institute [GitHub repo](https://github.com/ciml-org/ciml-summer-institute-2023).
-* One of the Tuesday hands-on sessions will require a GitHub account.
-  * If you do not already have one, you can create a free personal GitHub account [here](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account). 
-  * For basic GitHub usage on SDSC systems, see here: https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github
 
 [Back to Top](#top)
 <hr>
