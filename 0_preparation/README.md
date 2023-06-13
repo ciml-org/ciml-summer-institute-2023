@@ -11,6 +11,7 @@ This section contains a set of detailed start-up instructions, beginning with se
 * [Expanse User Guide](#expanse-guide)
 * [HPC Systems Accounts](#accounts)
 * [Basic Skills](#basic-skills)
+* [Computer Requirements](#comp-req)
 * [Github and Zoom](#Github-Zoom)
   * [Github](#github)
   * [Zoom](#zoom)
@@ -34,7 +35,7 @@ We will send this email in time for  "Prep Day," where we will be covering how t
 [Back to Top](#top)
 <hr>
   
-### Basic Skills <a name="basic-skills"></a>
+## Basic Skills <a name="basic-skills"></a>
 There are several basic skills needed in order to access and run jobs on HPC systems. There are two GitHub repositories with several mini-tutorials that you can access:
 * Basic HPC Linux Skills: https://github.com/sdsc-hpc-training-org/basic_skills
 * HPC Security:  https://github.com/sdsc-hpc-training-org/hpc-security
@@ -47,8 +48,14 @@ There are several basic skills needed in order to access and run jobs on HPC sys
 [Back to Top](#top)
 <hr>
 
-##  Github & Zoom <a name="Github-Zoom"></a>
-
+ ##  Computer Requirements <a name="comp-req"></a>
+* You will need to bring your own laptop for the summer institute. This will be used both for running software locally and connecting to SDSC’s supercomputers.
+ 
+[Back to Top](#top)
+<hr>
+ 
+ ##  Github & Zoom <a name="Github-Zoom"></a>
+ 
 ### Github: <a name="github"></a>
 * Training material will be located on the CIML Summer Institute [GitHub repo](https://github.com/ciml-org/ciml-summer-institute-2023).
 * One of the hands-on sessions will require a GitHub account.
