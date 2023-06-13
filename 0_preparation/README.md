@@ -29,7 +29,7 @@ Note: if you have any difficulties getting set up, please contact Institute staf
 ##  HPC Systems Accounts: <a name="accounts"></a>
 You will need a training account to access SDSC’s Expanse HPC system for the CIML Institute. We will be creating this account for you. 
 
-An email will be sent from cwong@sdsc.edu with the subject line "CIML 2023 Summer Institute: Account Set-Up" that will include your training account username and password and instructions.
+An email will be sent from consult@sdsc.edu with the subject line "CIML 2023 Summer Institute: Account Set-Up" that will include your training account username and password and instructions.
 We will send this email in time for  "Prep Day," where we will be covering how to manage your training account, along with other useful information. 
 
 [Back to Top](#top)
