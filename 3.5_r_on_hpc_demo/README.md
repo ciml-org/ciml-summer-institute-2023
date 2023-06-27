@@ -8,9 +8,10 @@
 
 ### Reading and Presentations:
 * **Lecture material:**
-   * Presentation Slides: will be made available closer to the session
-* **Source Code/Examples:** N/A
+   * Presentation Slides: CIML23_RHPC_Scaling_.pdf file
+* **Source Code/Examples:** Look for the TestDoParalellel__ .R   script
 
 ### TASKS: None at this time.
+We will run a short demo/exercise with a parallel R example using the Expanse portal Open-On-Demand (but there is also a batch job example)
 
 [Back to Top](#top)
