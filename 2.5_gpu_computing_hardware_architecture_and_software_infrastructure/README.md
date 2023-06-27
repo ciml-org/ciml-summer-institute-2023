@@ -112,7 +112,7 @@ Build cuda_11.7.r11.7/compiler.31442593_0
 We have version 11.7 installed so we are good to go. 
 We can now move into the `device_query` source directory and compile the code with the `make` command.
 ```
-cd cuda-samples/Samples/1_Utilities/deviceQuery
+cd cuda-samples-11.6/Samples/1_Utilities/deviceQuery
 make
 ```
 
@@ -175,7 +175,7 @@ It is instructive to look at two different matrix multiplication examples and co
 
 First we will look at a hand-written matrix multiplication. This implementation features several performance optimizations such as minimize data transfer from GPU RAM to the GPU processors and increase floating point performance.
 ```
-cd cuda-samples/Samples/0_Introduction/matrixMul
+cd cuda-samples-11.6/Samples/0_Introduction/matrixMul
 make
 ```
 We now have the executable `matrixMul` available. If we execute it,
@@ -200,7 +200,7 @@ NOTE: The CUDA Samples are not meant for performance measurements. Results may v
 
 Finally, let us look at a matrix multiplication that uses Nvidia's CUBLAS library, which is a highly optimized version of the Basic Linear Algebra System for Nvidia GPUs.
 ```
-cd cuda-samples/Samples/4_CUDA_Libraries/matrixMulCUBLAS
+cd cuda-samples-11.6/Samples/4_CUDA_Libraries/matrixMulCUBLAS
 make
 ```
 If we run the executable
