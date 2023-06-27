@@ -28,7 +28,7 @@
      ```
    * Exercise 5:
      ```
-     wget https://github.com/mkandes/4pi/blob/master/python/pi.py
+     wget https://raw.githubusercontent.com/mkandes/4pi/master/python/pi.py
      ```
    * Exercise 6:
      ```
