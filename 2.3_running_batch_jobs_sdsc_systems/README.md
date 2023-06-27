@@ -12,6 +12,10 @@
 * **Source Code/Examples:**
    * Exercise X:
      ```
+     wget https://github.com/mkandes/4pi/blob/master/python/pi.py
+     ```
+   * Exercise X:
+     ```
      wget https://github.com/ICICLE-ai/model-commons/blob/main/demos/tf2-train-cnn-cifar.py
      ```
 
