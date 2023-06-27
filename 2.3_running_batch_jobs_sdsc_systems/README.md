@@ -17,6 +17,7 @@
      https://portal.expanse.sdsc.edu/training
      ```
    * Presentation Slides: will be made available closer to the session
+     
 * **Source Code/Examples:**
    * Exercise X:
      ```
