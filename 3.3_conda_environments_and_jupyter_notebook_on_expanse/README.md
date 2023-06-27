@@ -65,7 +65,7 @@ For this task you will compare the runtime for a simple data analysis using 5 da
 ## TASK 3: Assess Parallel Efficiency
 In this task you will assess how runtime scales with the number of CPU cores.
 
-1. Run the notebook 7-ParallelEfficiency with the default file format "csv" and the dataframe library "Dask".
+1. Run the notebook ```7-ParallelEfficiency``` with the default file format ```csv``` and the dataframe library ```Dask```.
 
 Review the Parallel Efficiency plot. How well does Dask scale for this example?
 
