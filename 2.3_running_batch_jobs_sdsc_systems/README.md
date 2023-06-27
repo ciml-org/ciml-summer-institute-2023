@@ -9,6 +9,9 @@
 ### Reading and Presentations:
 * **Lecture material:**
    * Review: [How to setup SSH keys](https://github.com/sdsc/sdsc-summer-institute-2022/blob/main/2.5_data_management/SSH.md)
+     ```
+     ssh train129@login.expanse.sdsc.edu
+     ```
    * Expanse User Portal:
      ```
      https://portal.expanse.sdsc.edu/training
