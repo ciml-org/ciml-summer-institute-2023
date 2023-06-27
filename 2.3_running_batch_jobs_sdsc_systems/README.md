@@ -19,18 +19,18 @@
    * Presentation Slides: will be made available closer to the session
      
 * **Source Code/Examples:**
-   * Exercise X:
+   * Exercise 4:
      ```
      wget https://raw.githubusercontent.com/ciml-org/ciml-summer-institute-2023/main/2.3_running_batch_jobs_sdsc_systems/hello-my-hostname-is.sh
      ```
      ```
      wget https://raw.githubusercontent.com/ciml-org/ciml-summer-institute-2023/main/2.3_running_batch_jobs_sdsc_systems/hello-my-hostnames-are.sh
      ```
-   * Exercise X:
+   * Exercise 5:
      ```
      wget https://github.com/mkandes/4pi/blob/master/python/pi.py
      ```
-   * Exercise X:
+   * Exercise 6:
      ```
      wget https://raw.githubusercontent.com/ICICLE-ai/model-commons/main/demos/tf2-train-cnn-cifar.py
      ```
