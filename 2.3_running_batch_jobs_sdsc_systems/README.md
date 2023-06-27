@@ -14,6 +14,9 @@
      ```
      wget https://raw.githubusercontent.com/ciml-org/ciml-summer-institute-2023/main/2.3_running_batch_jobs_sdsc_systems/hello-my-hostname-is.sh
      ```
+     ```
+     wget https://raw.githubusercontent.com/ciml-org/ciml-summer-institute-2023/main/2.3_running_batch_jobs_sdsc_systems/hello-my-hostnames-are.sh
+     ```
    * Exercise X:
      ```
      wget https://github.com/mkandes/4pi/blob/master/python/pi.py
