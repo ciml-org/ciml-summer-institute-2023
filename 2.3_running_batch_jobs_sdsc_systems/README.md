@@ -16,7 +16,7 @@
      ```
      https://portal.expanse.sdsc.edu/training
      ```
-   * Presentation Slides: will be made available closer to the session
+   * Presentation Slides: https://github.com/ciml-org/ciml-summer-institute-2023/blob/main/2.3_running_batch_jobs_sdsc_systems/batch-slurm-edition.pdf
      
 * **Source Code/Examples:**
    * Exercise 4:
