@@ -12,7 +12,7 @@
 * **Source Code/Examples:**
    * Exercise X:
      ```
-     https://raw.githubusercontent.com/ciml-org/ciml-summer-institute-2023/main/2.3_running_batch_jobs_sdsc_systems/hello-my-hostname-is.sh
+     wget https://raw.githubusercontent.com/ciml-org/ciml-summer-institute-2023/main/2.3_running_batch_jobs_sdsc_systems/hello-my-hostname-is.sh
      ```
    * Exercise X:
      ```
@@ -20,7 +20,7 @@
      ```
    * Exercise X:
      ```
-     wget https://github.com/ICICLE-ai/model-commons/blob/main/demos/tf2-train-cnn-cifar.py
+     wget https://raw.githubusercontent.com/ICICLE-ai/model-commons/main/demos/tf2-train-cnn-cifar.py
      ```
 
 ### TASKS: None at this time.
