@@ -32,7 +32,7 @@
      ```
    * Exercise 6:
      ```
-     wget https://raw.githubusercontent.com/ICICLE-ai/model-commons/main/demos/tf2-train-cnn-cifar.py
+     wget https://raw.githubusercontent.com/ciml-org/ciml-summer-institute-2023/main/2.3_running_batch_jobs_sdsc_systems/tf2-train-cnn-cifar.py
      ```
 
 ### TASKS: None at this time.
