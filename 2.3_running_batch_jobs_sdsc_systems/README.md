@@ -9,7 +9,8 @@
 ### Reading and Presentations:
 * **Lecture material:**
    * Presentation Slides: will be made available closer to the session
-* **Source Code/Examples:** N/A
+* **Source Code/Examples:**
+   * Exercise X: `wget https://github.com/ICICLE-ai/model-commons/blob/main/demos/tf2-train-cnn-cifar.py`
 
 ### TASKS: None at this time.
 
