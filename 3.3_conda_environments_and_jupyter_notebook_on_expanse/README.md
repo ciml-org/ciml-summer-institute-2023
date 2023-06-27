@@ -101,7 +101,7 @@ The dataframe notebooks in this repo have already been parameterized, however to
 
    > You can check the solution.sh script to make sure you got this correct
 
-3. Submit the problem.sh batch script using ```sbatch```
+3. Submit the ```problem.sh``` batch script using ```sbatch```
 
 4. Monitor the progress of the job in the Expanse Portal
 
