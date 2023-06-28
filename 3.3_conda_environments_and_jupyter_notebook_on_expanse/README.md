@@ -69,7 +69,7 @@ In this task you will assess how runtime scales with the number of CPU cores.
 
 Review the Parallel Efficiency plot. How well does Dask scale for this example?
 
-2. Use the widgets in the notebook to rerun the analysis with different dataframe libraries and file formats and create a Parallel Efficiency plot. Describe what you found out.
+2. Use the widgets in the notebook to rerun the analysis with a different dataframe libraries and file format and create a Parallel Efficiency plot. Describe what you found out.
  
 -----
 
