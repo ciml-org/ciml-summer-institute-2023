@@ -19,4 +19,4 @@ module load "${SINGULARITY_MODULE}"
 module list
 printenv
 
-time -p singularity exec --nv "${SINGULARITY_CONTAINER_DIR}/tensorflow-latest.sif" python3 -u tf2-train-cnn-cifar.py --classes 10 --precision fp32 --epochs 42 --batch_size 256
+time -p singularity exec --nv "${SINGULARITY_CONTAINER_DIR}/tensorflow/tensorflow-latest.sif" python3 -u tf2-train-cnn-cifar.py --classes 10 --precision fp32 --epochs 42 --batch_size 256
