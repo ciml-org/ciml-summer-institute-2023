@@ -27,14 +27,14 @@ git clone https://github.com/sbl-sdsc/df-parallel.git
 
    This script will generate a URL for your Jupyter Lab session.
 ```
-galyleo launch --account ${CIML_ACCOUNT} --reservation ${CIML_RESERVATION_GPU} --qos ${CIML_QOS_GPU} --partition gpu-shared --cpus 10 --memory 92 --gpus 1 --time-limit 01:30:00 --conda-env df-parallel-gpu --conda-yml "${HOME}/df-parallel/environment-gpu.yml" --mamba
+galyleo launch --account ${CIML23_ACCOUNT} --reservation ${CIML23_RES_GPU} --qos ${CIML23_QOS_GPU} --partition gpu-shared --cpus 10 --memory 92 --gpus 1 --time-limit 01:30:00 --conda-env df-parallel-gpu --conda-yml "${HOME}/df-parallel/environment-gpu.yml" --mamba
 ```
 
-> The arguments ```--reservation ${CIML_RESERVATION_GPU} --qos ${CIML_QOS_GPU}``` are only active during the CIML workshop. Remove these arguments when running this example outside of the workshop and specify your project account number.
+> The arguments ```--reservation ${CIM23_RES_GPU} --qos ${CIM23_QOS_GPU}``` are only active during the CIML workshop. Remove these arguments when running this example outside of the workshop and specify your project account number.
 
 4. Open a new tab in your web browser and paste the Jupyter Lab URL.  
 
-> You should see the Satellite Reserver Proxy Servive page launch in your browser.
+> You should see the Satellite Reserve Proxy Service page launch in your browser.
 
 ------
 
@@ -65,11 +65,11 @@ For this task you will compare the runtime for a simple data analysis using 5 da
 ## TASK 3: Assess Parallel Efficiency
 In this task you will assess how runtime scales with the number of CPU cores.
 
-1. Run the notebook 7-ParallelEfficiency with the default file format "csv" and the dataframe library "Dask".
+1. Run the notebook ```7-ParallelEfficiency``` with the default file format ```csv``` and the dataframe library ```Dask```.
 
 Review the Parallel Efficiency plot. How well does Dask scale for this example?
 
-2. Using the widgets in the notebook to rerun the analysis with different dataframe libraries and file formats and create a the Parallel Efficiency plot. Describe what you found out.
+2. Use the widgets in the notebook to rerun the analysis with different dataframe libraries and file formats and create a Parallel Efficiency plot. Describe what you found out.
  
 -----
 
@@ -101,7 +101,7 @@ The dataframe notebooks in this repo have already been parameterized, however to
 
    > You can check the solution.sh script to make sure you got this correct
 
-3. Submit the problem.sh batch script using ```sbatch```
+3. Submit the ```problem.sh``` batch script using ```sbatch```
 
 4. Monitor the progress of the job in the Expanse Portal
 

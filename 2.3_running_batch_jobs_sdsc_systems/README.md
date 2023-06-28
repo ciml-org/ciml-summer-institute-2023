@@ -8,27 +8,31 @@
 
 ### Reading and Presentations:
 * **Lecture material:**
-   * Review: [How to setup SSH keys](https://github.com/sdsc/sdsc-summer-institute-2022/blob/main/2.5_data_management/SSH.md)
+   * Tutorial: [How to setup SSH keys](https://github.com/sdsc/sdsc-summer-institute-2022/blob/main/2.5_data_management/SSH.md)
+     ```
+     ssh train129@login.expanse.sdsc.edu
+     ```
    * Expanse User Portal:
      ```
      https://portal.expanse.sdsc.edu/training
      ```
-   * Presentation Slides: will be made available closer to the session
+   * Presentation Slides: https://github.com/ciml-org/ciml-summer-institute-2023/blob/main/2.3_running_batch_jobs_sdsc_systems/batch-slurm-edition.pdf
+     
 * **Source Code/Examples:**
-   * Exercise X:
+   * Exercise 4:
      ```
      wget https://raw.githubusercontent.com/ciml-org/ciml-summer-institute-2023/main/2.3_running_batch_jobs_sdsc_systems/hello-my-hostname-is.sh
      ```
      ```
      wget https://raw.githubusercontent.com/ciml-org/ciml-summer-institute-2023/main/2.3_running_batch_jobs_sdsc_systems/hello-my-hostnames-are.sh
      ```
-   * Exercise X:
+   * Exercise 5:
      ```
-     wget https://github.com/mkandes/4pi/blob/master/python/pi.py
+     wget https://raw.githubusercontent.com/mkandes/4pi/master/python/pi.py
      ```
-   * Exercise X:
+   * Exercise 6:
      ```
-     wget https://raw.githubusercontent.com/ICICLE-ai/model-commons/main/demos/tf2-train-cnn-cifar.py
+     wget https://raw.githubusercontent.com/ciml-org/ciml-summer-institute-2023/main/2.3_running_batch_jobs_sdsc_systems/tf2-train-cnn-cifar.py
      ```
 
 ### TASKS: None at this time.
