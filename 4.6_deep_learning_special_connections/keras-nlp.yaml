@@ -1,0 +1,14 @@
+name: keras-nlp
+
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - tensorflow=2.12.0=gpu_py311h65739b5_0
+  - jupyterlab
+  - pip:
+    - keras-nlp==0.5.1
+    - regex
+    - matplotlib
+    - pandas
