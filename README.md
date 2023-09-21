@@ -26,7 +26,7 @@ To work with the material, remember to CLONE this repo.
 ## Agenda:<a name="agenda"></a>
 All times are in Pacific time.
 
-### Preparation Day (virtual) (Tuesday, 06/20/22) <a name="agenda-prep"></a>
+### Preparation Day (virtual) (Tuesday, 06/20/23) <a name="agenda-prep"></a>
 | **TIME (Pacific time)**       |   **TOPIC** | **PRESENTER** |
 | -------------------- |  ----------- | ----------- |
 | 9:00 AM - 9:15 AM	   |  1.1 Welcome & Orientation |
@@ -35,7 +35,7 @@ All times are in Pacific time.
 
 [Back to Top](#top)
 
- ### HPC & Parallel Concepts (Tuesday, 06/27/22)<a name="agenda-hpc-pc"></a>
+ ### HPC & Parallel Concepts (Tuesday, 06/27/23)<a name="agenda-hpc-pc"></a>
 | **TIME (Pacific time)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 8:00 AM – 8:30 AM  | Light Breakfast & Check-in |    |
@@ -53,7 +53,7 @@ All times are in Pacific time.
 
 [Back to Top](#top)
 
-### Scalable Machine Learning (Wednesday, 06/28/22)<a name="agenda-scalable-ml"></a>
+### Scalable Machine Learning (Wednesday, 06/28/23)<a name="agenda-scalable-ml"></a>
 | **TIME (Pacific time)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 8:00 AM – 8:30 AM  | Light Breakfast & Check-in |    |
@@ -70,7 +70,7 @@ All times are in Pacific time.
 
 [Back to Top](#top)
 
-### Deep Learning (Thursday, 06/29/22)<a name="agenda-deep-ml"></a>
+### Deep Learning (Thursday, 06/29/23)<a name="agenda-deep-ml"></a>
 | **TIME (Pacific time)** | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 8:00 AM – 8:30 AM  | Light Breakfast & Check-in |    |
